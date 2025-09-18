@@ -6,7 +6,7 @@ Este repositorio contiene todas las entregas del proyecto y tareas grupales para
 | integrante | carrera |
 |---|---|
 | DAVID ESTEBAN RAMÍREZ LOPEZ | Ciencias de la Computación |
-| PABLO ROSALES OBANDO |  |
-| JAIME JAVIER ANDRES QUIÑONES SEGURA | |
-| OMAR ANDRES QUIÑONES MEJIA | |
+| PABLO ROSALES OBANDO |Ingenieria en Sistemas y Computaciòn|
+| JAIME JAVIER ANDRES QUIÑONES SEGURA |Ingenieria en Sistemas y Computaciòn|
+| OMAR ANDRES QUIÑONES MEJIA |Ingenieria en Sistemas y Computaciòn|
 
