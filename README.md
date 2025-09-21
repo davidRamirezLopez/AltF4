@@ -10,7 +10,7 @@
 
 ## Descripción del proyecto
 #### biUNestar 🌱
-<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/67e5924f-45d1-4d04-be0f-f2dedf432433" />
+<img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/67e5924f-45d1-4d04-be0f-f2dedf432433" />
 
 **Tu compañero digital para cultivar hábitos saludables y potenciar el bienestar estudiantil.**
 
